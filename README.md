@@ -2,5 +2,13 @@
 
 I have extensive experience in the field of IT, I have been developing using React and React Native, as well as using JavaScript for more than 5 years. I have certificates of the JavaScript ES6 and HTML and CSS certification course from Duke University (Coursera). 
 
-## Skills ⚒️
-I also work with Node.js, Ruby, Python, Swift and I know a little about design. 
+## Tools and Programing Languages ⚒️
+I also work with:
+- Node.js
+- Ruby
+- Python
+- Swift
+- Figma, Sketch
+- Trello, Notion
+- Git, GitHub, Fork, SourceTree
+
