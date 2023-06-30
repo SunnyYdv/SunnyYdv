@@ -2,15 +2,23 @@
 
 I have extensive experience in the field of IT, I have been developing using React and React Native, as well as using JavaScript for more than 5 years.
 
-## Tools and Programing Languages ⚒️
-I also work with:
+## Tools and Skills ⚒️
 - Node.js
-- Ruby
 - Python
+- TypeScript
+- tailwind
+- HTML5
+- Css
 - Swift
-- Figma, Sketch
-- Trello, Notion
+- Figma, Adobe
+- Notion, Slack, Jira
 - Git, GitHub, Fork, SourceTree
 
+
+### Programing Languages 👾
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://camo.githubusercontent.com/67a01fa7cf337616274f39c070a11638f2e65720e414ef55b8dd3f9c2a803b2a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d526561637426636f6c6f723d323232323232266c6f676f3d5265616374266c6f676f436f6c6f723d363144414642266c6162656c3d)
+
 ## My Certificates 📃
- I have certificates of the JavaScript ES6 and HTML and CSS certification course from Duke University (Coursera). 
+I have certificates of the JavaScript ES6 and HTML and CSS certification course from Duke University (Coursera). 
