@@ -14,7 +14,6 @@ I have extensive experience in the field of IT, I have been developing using Rea
 - Notion, Slack, Jira
 - Git, GitHub, Fork, SourceTree
 
-
 ### Programing Languages 👾
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,3 +22,8 @@ I have extensive experience in the field of IT, I have been developing using Rea
 
 ## My Certificates 📃
 I have certificates of the JavaScript ES6 and HTML and CSS certification course from Duke University (Coursera). 
+
+### Tools 🪛
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://camo.githubusercontent.com/556431d9638bf225db4735f862b59aaa3cd1cf72a40a01ca65804e3a981b299e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d41646f626526636f6c6f723d464630303030266c6f676f3d41646f6265266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
